@@ -6,4 +6,9 @@ body {
 }
 table {
     background-color: rgb(102, 101, 132);
+    text-align: center;
+}
+.table {
+    background-color: white;
+    text-align: center;
 }
