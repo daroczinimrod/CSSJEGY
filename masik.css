@@ -16,3 +16,7 @@ table {
     background-color: rgb(205, 219, 235);
     height: 35px;
 }
+#vanne {
+    margin: 0px 5px 0px;
+    float: right;
+}
