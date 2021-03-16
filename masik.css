@@ -8,7 +8,11 @@ table {
     background-color: rgb(102, 101, 132);
     text-align: center;
 }
-.table {
+.tables {
     background-color: white;
     text-align: center;
+}
+.sorok {
+    background-color: rgb(205, 219, 235);
+    height: 35px;
 }
